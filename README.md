@@ -9,7 +9,7 @@ You may be familiar with my username from various projects created throughout my
 - various open-source projects I've released or contributed to
 - companies I have founded
 
-Throughout my programming experience since 2013, I have been proud of the countless hours spent creating software that has put smiles on many faces worldwide. :) 
+Throughout my programming experience since 2013, I have been proud of the countless hours spent creating software that has put smiles on many faces worldwide. :smiley:
 
 <sub>*If you've had the chance to use any software I have made, you've been very impactful to my programming journey!*</sub>
 
