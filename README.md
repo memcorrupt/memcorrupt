@@ -15,7 +15,7 @@ Throughout my programming experience since 2013, I have been proud of the countl
 
 ### :dart: Current Focus
 
-I'm currently leading the operations of [Luraph](https://lura.ph "Luraph - Online Lua Obfuscator"), an online Lua obfuscator allowing developers to secure their Lua scripts through virtualization based security. You can check out our opensource projects at @Luraph. We've been the industry leader since 2017, and focused on leading my team to push Lua obfuscation to further unprecedented levels.
+I'm currently leading the operations of [Luraph](https://lura.ph "Luraph - Online Lua Obfuscator"), an online Lua obfuscator allowing developers to secure their Lua scripts through virtualization based security. You can check out our opensource projects at [@Luraph](https://github.com/Luraph). We've been the industry leader since 2017, and focused on leading my team to push Lua obfuscation to further unprecedented levels.
 
 Additionally, I am currently pursuing my B.S. **and** M.S. in Computer Science via an accelerated program at the university I attend.
 
