@@ -17,13 +17,13 @@ Throughout my programming experience since 2013, I have been proud of the countl
 
 I'm currently leading the operations of [Luraph](https://lura.ph "Luraph - Online Lua Obfuscator"), an online Lua obfuscator allowing developers to secure their Lua scripts through virtualization based security. You can check out our opensource projects at [@Luraph](https://github.com/Luraph). We've been the industry leader since 2017, and focused on leading my team to push Lua obfuscation to further unprecedented levels.
 
-Additionally, I am currently pursuing my B.S. **and** M.S. in Computer Science via an accelerated program at the university I attend.
+Additionally, I am currently pursuing my M.S. in Computer Science via an accelerated program at the university I attend.
 
 When not actively engaged in one of those activities, I am usually engaged in R&D activities to solve extremely obscure problems to improve technology that I use in my professional or personal life.
 
-I also currently enjoy DJing, listening to great music, driving IRL, and sim racing during my personal time.
+I also currently enjoy DJing, listening to great music, traveling, driving IRL, and sim racing during my personal time.
 
-<sub>*Last updated: January 9, 2024*</sub>
+<sub>*Last updated: June 23, 2025*</sub>
 
 ### :hammer: Technologies
 
